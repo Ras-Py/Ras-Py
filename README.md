@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ras-Py
-- 👀 I’m interested in Raspberry Pi and Python mainly. 
+- 👀 I’m interested in Raspberry Pi and Python mainly.
+ 
 
 * Currently I'm working on a setup of an independent development environment for Python
   * Local instances of git, python package manager, docker repository
